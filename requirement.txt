@@ -1,0 +1,7 @@
+gradio
+pandas
+scikit-learn
+matplotlib
+kaleido
+OpenAI
+plotly
