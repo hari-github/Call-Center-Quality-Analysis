@@ -1,0 +1,25 @@
+Agent: Thank you for calling CareLine Member Services, this is Mark speaking. How can I help you today?
+Member: Hi Mark, I just had a couple of questions—first about what’s included in my vision benefits, and also about a claim I submitted for a specialist visit.
+Agent: Sure. What’s your member ID?
+Member: It’s 8974563.
+Agent: Alright, give me a second… [brief pause] Okay, go ahead with the first question.
+Member: I just want to know if routine eye exams and glasses are covered.
+Agent: Vision benefits cover one routine eye exam per year. Glasses are not included unless you have the supplemental package.
+Member: Oh… I wasn’t aware of the supplemental thing. No one mentioned that when I signed up.
+Agent: It’s in the plan documents. You’d have to opt into it during enrollment.
+Member: Got it. Okay, about the claim—I saw online that it was “pending” for the last two weeks. It was for a dermatologist visit.
+Agent: Dermatology claims can take a little longer. Depends on how the provider submitted it.
+Member: It just says “under review.” Does that mean there’s a problem?
+Agent: Not necessarily. It just hasn’t finalized.
+Member: Is there anything I need to do on my end?
+Agent: No. If something’s missing, we’ll reach out.
+Member: Okay… I was just worried because the provider’s asking me to pay out of pocket.
+Agent: They shouldn’t be billing you yet. Tell them to wait until the claim processes.
+Member: I did, but they were being kind of aggressive about it.
+Agent: Well, it’s their responsibility to hold billing if they’re in-network.
+Member: Alright. I’ll follow up with them again.
+Agent: Anything else today?
+Member: No, I think that covers it.
+Agent: Okay. You may get a quick survey about this call — feel free to provide feedback.
+Member: Will do. Thanks for your time.
+Agent: You’re welcome. Have a good day.

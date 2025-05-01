@@ -1,0 +1,28 @@
+Agent: Thank you for calling WellCare Member Services. This is Jordan speaking. How can I assist you today?
+Member: Hi. I’ve already called twice this week, and I’m still waiting to understand why a recent claim was denied. It's getting really frustrating.
+Agent: I’m really sorry to hear that. Let me take a look so we can get to the bottom of it. Do you have the date of service handy?
+Member: Yes, it was March 28th for a follow-up appointment with my cardiologist.
+Agent: Thank you. One moment while I pull up the claim details... Alright, I see the claim was denied because the provider is listed as out-of-network.
+Member: That doesn’t make sense — he’s been my cardiologist for over a year, and he’s always been in-network.
+Agent: I completely understand your concern. It looks like the provider's contract with our network changed as of March 1st.
+Member: Well, no one told me! I only found out after I got a $200 bill in the mail.
+Agent: That’s definitely frustrating. Let me see if the claim can be appealed based on continuity of care. If you were in active treatment, we may be able to request a reconsideration.
+Member: Yes, I’m under regular treatment for heart issues. This was part of my follow-up.
+Agent: Got it. I’ll flag this as a potential appeal. I’ll also email you the form and instructions to complete it. It should take about 10 business days for review.
+Member: Okay… I guess that’s something. Still feels like I should’ve been notified about the network change.
+Agent: I understand, and I’ll note that feedback. We’ll do what we can to try to get this covered.
+
+Agent: Now, you mentioned you had a second question as well?
+Member: Yeah, I also wanted to check what’s actually covered under my wellness benefits. I don’t want another surprise.
+Agent: Absolutely. Under your current plan, you’re entitled to one annual physical, routine lab work, and a wellness incentive of $100 if you complete a health survey and screening.
+Member: Oh, I didn’t know about that incentive.
+Agent: Most members don’t! I can walk you through how to claim it if you’d like.
+Member: Sure, go ahead.
+Agent: You just need to complete the online health risk assessment, and once your provider submits proof of a wellness visit, the $100 will be issued as a prepaid card.
+Member: Alright, I’ll look into that.
+Agent: Perfect. I’ll send you a summary of your benefits and the incentive details via email right after this call.
+
+Member: Okay, thanks for being thorough. I just wish all of this was clearer from the beginning.
+Agent: I totally understand. I’ll pass your comments on so we can improve communication. Is there anything else I can help with today?
+Member: No, that’s everything.
+Agent: Thank you for calling, and again, I’m sorry for the inconvenience. I hope the rest of your day goes smoother.

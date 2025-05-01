@@ -1,0 +1,30 @@
+Agent: Thank you for calling Unity Health Member Services. My name is Ayesha — how can I help you today?
+Member: Hi Ayesha. I got a bill for some lab work I thought was covered. I don’t understand why I’m being charged.
+Agent: I’m sorry to hear that. Let me pull up your account so I can take a look. Can I have your member ID please?
+Member: Sure, it’s 5627189.
+Agent: Thank you. One moment… Alright, I see the lab work from April 10th — it looks like the billing was processed as out-of-network.
+Member: But the lab was at my usual clinic. I've been going there for years.
+Agent: I understand, and that’s frustrating. In this case, the provider is in-network, but they sent your bloodwork to a third-party lab that isn’t contracted with us.
+Member: How am I supposed to know where the samples go? No one told me.
+Agent: I completely understand. Unfortunately, the ordering provider determines which lab processes the tests, and unless you request a specific lab, it may go out-of-network.
+Member: So I’m stuck with this bill?
+Agent: Based on the claim details, the service wasn’t eligible for coverage. You could speak with your provider about reprocessing through a preferred lab, but once a test is run, that’s usually not possible.
+Member: Great… That’s really disappointing.
+
+Agent: I do want to make sure you know how to avoid this in the future. You can ask providers to send labs to Quest or LabCorp — both are in-network with your plan.
+Member: I’ll keep that in mind next time.
+
+Agent: Was there anything else I could help you with today?
+Member: Yeah, one more thing. I was referred to a neurologist, but they said I still need a referral form from you?
+Agent: Let me check… Yes, under your plan, certain specialists require prior authorization or a referral through our system. I can start that for you now.
+Member: Please do.
+Agent: Okay, I’ve submitted a referral request to the neurologist listed here. You should receive a confirmation within 48 hours.
+Member: Alright, at least that’s something.
+Agent: I know the billing situation wasn’t what you were hoping for, but I’m glad we could get the referral taken care of.
+Member: Yeah, I appreciate your help. You’ve been really nice — just not thrilled about that lab bill.
+Agent: Totally understandable. I’ll also log your concern so our team can look into clearer communication around lab processing.
+
+Agent: Is there anything else I can help you with today?
+Member: No, that’s it. Thanks again.
+Agent: Thank you for calling, and I hope things go more smoothly moving forward. Take care.
+
