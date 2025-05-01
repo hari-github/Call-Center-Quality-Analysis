@@ -2,7 +2,8 @@
 
 This web app evaluates customer service call transcripts to provide an automated quality assessment. Built with **Gradio**, it uses an **LLM hosted by NVIDIA's API** to analyze and score interactions across several key performance metrics.
 
-🔗 **Live Demo**: [Try it on Hugging Face Spaces](https://huggingface.co/spaces/rewin14/apps_test)
+🔗 **Live Demo**: [Try it on Hugging Face Spaces](https://huggingface.co/spaces/rewin14/apps_test)    --- Sample transcripts in the repo can be used for test run
+
 🔗 **Video Demo**: https://youtu.be/M9TYLmQP_sU
 
 ---
