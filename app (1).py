@@ -24,7 +24,7 @@ def chat(messages) :
 
     client = OpenAI(
       base_url = "https://integrate.api.nvidia.com/v1",
-      api_key = "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"
+      api_key = "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"
     )
 
     completion = client.chat.completions.create(
